@@ -1,8 +1,10 @@
 ---
 layout: default
+published: true
+title: Гітарная музыка
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ГтText can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
